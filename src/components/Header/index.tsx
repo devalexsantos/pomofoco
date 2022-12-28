@@ -7,7 +7,7 @@ export function Header() {
   return (
     <HeaderContainer>
       <span>
-        <PomofocusLogo>Pomofocus.</PomofocusLogo>
+        <PomofocusLogo>Pomofoco.</PomofocusLogo>
       </span>
       <nav>
         <NavLink to="/" title="Timer">
